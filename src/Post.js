@@ -7,6 +7,7 @@ import RepeatOneIcon from '@mui/icons-material/RepeatOne';
 import ChatBubbleOutlineIcon from '@mui/icons-material/ChatBubbleOutline';
 import ShareIcon from '@mui/icons-material/Share';
 import MoreHorizIcon from '@mui/icons-material/MoreHoriz';
+import Modal from "react-modal";
 
 export default function Post(){
     return(
